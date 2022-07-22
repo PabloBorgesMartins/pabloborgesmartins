@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/pabloborgesmartins?tab=followers">
     <img src="https://img.shields.io/github/followers/pabloborgesmartins?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p>
+</p> -->
 
 - 🔭 I’m currently working at [A Recreativa](https://arecreativa.com.br/)
 
