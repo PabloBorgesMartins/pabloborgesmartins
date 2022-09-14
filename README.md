@@ -6,7 +6,7 @@
 </p> -->
 
 <!-- - 🔭 I’m currently working at [A Recreativa](https://arecreativa.com.br/) -->
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently working at KaBuM!
 
 - 💬 Ask me about **React, Next.js, React Native and Electron.js**
 
